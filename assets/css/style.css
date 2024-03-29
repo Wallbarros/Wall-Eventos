@@ -206,5 +206,29 @@
   #links-container a:hover {
     color: #fff;
 }
+
+#footer-bottom {
+    border-top: 1px solid #7a7a7a;
+    padding-top: 2em;
+  }
   
+  #footer-bottom i {
+    color: #e61e10;
+  }
+  
+  @media (min-width: 768px) {
+    #news-container {
+      padding-right: 2em;
+    }
+  
+    #contact-container {
+      padding: 0 2em;
+      border-left: 1px solid #7a7a7a;
+      border-right: 1px solid #7a7a7a;
+    }
+  
+    #links-container {
+      padding-left: 2em;
+    }
+  }
   
