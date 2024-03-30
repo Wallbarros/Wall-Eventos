@@ -51,6 +51,24 @@ const shows = [
         img: '../assets/images/som53617643324_53f56059c5_h.jpg',
         descricao: '2 DE MAIO DE 2024 <br> Endereço: TEATRO MARGARIDA SCHIVASSAPA - BELÉM - PA <br> Local: TEATRO MARGARIDA SCHIVASSAPA <br> Abertura das Portas: 19:00 <br> Classificação: +12 ',
         titulo: 'O SOM DO CORAÇÃO'
+    },
+
+    {
+        img: '../assets/images/simone28322-20231218170602.webp',
+        descricao:'4 DE MAIO DE 2024 <br> Endereço: CARNANINDEUA - ANANINDEUA - PA <br> Local: AV ARTERIAL 18 <br> Abertura das Portas: 21:00 <br> Classificação: +18',
+        titulo: 'Simone Mendes'
+    },
+
+    {
+        img: '../assets/images/paralamas28199-20231128133908.webp',
+        descricao: '13 DE ABRIL DE 2024 <br> Endereço: AV RODRIGO OTAVIO - MANAUS - AM <br> Local: STUDIO 5 <br> Abertura das Portas: 22:00 <br> Classificação: +18 ',
+        titulo: 'Paralamas do Sucesso'
+    },
+
+    {
+        img: '../assets/images/jota27813-20231008125757.webp',
+        descricao: '4 DE MAIO DE 2024 <br> Endereço: CARNANINDEUA - ANANINDEUA - PA <br> Local: AV ARTERIAL 18 <br> Abertura das Portas: 21:00 <br> Classificação: +18',
+        titulo: 'Jota Quest'
     }
 ]
 
